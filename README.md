@@ -22,6 +22,6 @@ To play the game, simply execute the Python script. Upon running, you will be pr
 
 ## About the Author
 
-This Python KBC project is maintained by Wajiha. Connect with me on  for any inquiries or collaborations.
+This Python KBC project is maintained by Wajiha. Connect with me on https://rb.gy/yfz8p5 for any inquiries or collaborations.
 
 Enjoy playing and good luck becoming a millionaire! 🎮💰
